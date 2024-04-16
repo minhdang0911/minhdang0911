@@ -24,14 +24,7 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
-<div align="center">
 
-</div>
-
-<p align="center">
-  <img src="https://github.com/minhdang0911/minhdang0911/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
-</p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
