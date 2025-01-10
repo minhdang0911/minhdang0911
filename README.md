@@ -10,6 +10,20 @@
 
 <br/>
 
+```javascript
+class minhdang0911 {
+  constructor() {
+    this.classYear = 2025;
+    this.school = "HUTECH";
+    this.pronouns = "he/him";
+    this.hobbies = ["game", "programming", "music", "Youtube"];
+  }
+}
+```
+
+
+
+
 <div align="center">
 🌍 I'm based in Vietnam
 </div>
