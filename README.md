@@ -56,6 +56,9 @@ class minhdang0911 {
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=minhdang0911&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=minhdang0911&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhdang0911&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+</div>
   <br/>
 </div>
 
@@ -78,12 +81,13 @@ class minhdang0911 {
 
 <br/>
 
-<h2 align="center">🎓 Education</h2>
-<ul>
-  <li>🎓 <strong>Infomation Technology</strong> -  Ho Chi Minh City University of Technology, 2019-2023</li>
-</ul>
+<div align="center">
 
-<br/>
+| 🏫 **Education** | 📅 **Period** | 📍 **Status** |
+|------------------|---------------|---------------|
+| Information Technology - HUTECH University | 2019 - 2023 | 🎓 Graduated|
+
+</div>
 
  
  
